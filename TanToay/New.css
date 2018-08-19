@@ -1,0 +1,16 @@
+.div1{
+	background-image:url("Pear.jpg");
+	padding:200px;
+}
+.div2{
+	background-color:grey;
+	padding:200px	;
+}
+img{
+	border: solid 20px black;
+	border-radius:80%;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
